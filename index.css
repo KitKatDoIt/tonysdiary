@@ -1,3 +1,10 @@
 body {
     font-family: Verdana, Geneva, Arial, sans-serif;
 }
+@font-face {
+    font-family: "Lobster";
+    src: url("https://rus.fontsisland.com/font/lobster");
+}
+h1 {
+    font-family: "Lobster", sans-serif;
+}
