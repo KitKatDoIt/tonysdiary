@@ -3,7 +3,8 @@ body {
 }
 @font-face {
     font-family: "Lobster";
-    src: url("https://rus.fontsisland.com/font/lobster.ttf");
+    src: url("../fonts/Lobster/LobsterRegular/LobsterRegular.woff") format("woff"),
+    url("../fonts/Lobster/LobsterRegular/LobsterRegular.ttf");
 }
 h1 {
     font-family: "Lobster", sans-serif;
