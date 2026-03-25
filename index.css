@@ -1,11 +1,16 @@
-body {
-    font-family: Verdana, Geneva, Arial, sans-serif;
-}
 @font-face {
     font-family: "Lobster";
     src: url("lobsterRegular.woff"),
-        url("lobsterRegular.ttf");
+        url("lobsterRegular.ttf")
+}
+body {
+    font-family: Verdana, Geneva, Arial, sans-serif;
+    font-size: small;
 }
 h1 {
     font-family: "Lobster", sans-serif;
+    font-size: 220%;
+}
+h2 {
+    font-size: 130%;
 }
